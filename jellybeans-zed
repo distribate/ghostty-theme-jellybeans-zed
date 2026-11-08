@@ -1,0 +1,28 @@
+# Jellybeans (Zed / jellybeans-vim palette)
+# Generated from the Zed theme "Jellybeans" (extension jellybeans-vim).
+# Matches Zed's editor + syntax colors rather than Ghostty's built-in
+# Jellybeans port, so the terminal, Zed and OpenCode look the same.
+
+background = #151515
+foreground = #e8e8d3
+cursor-color = #8fbfdc
+cursor-text = #151515
+selection-background = #465964
+selection-foreground = #e8e8d3
+
+palette = 0=#151515
+palette = 1=#cf6a4c
+palette = 2=#99ad6a
+palette = 3=#fad07a
+palette = 4=#8197bf
+palette = 5=#c6b6ee
+palette = 6=#8fbfdc
+palette = 7=#e8e8d3
+palette = 8=#73675e
+palette = 9=#902020
+palette = 10=#437019
+palette = 11=#ffb964
+palette = 12=#2b5b77
+palette = 13=#540063
+palette = 14=#2d7067
+palette = 15=#e8e8d3
